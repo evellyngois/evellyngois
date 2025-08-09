@@ -11,7 +11,7 @@
 - 🐍 **Python** – Sintaxe básica, estruturas de dados e automação simples  
 - 🗃️ **SQL** – Consultas, filtros e manipulação de tabelas  
 - 🌱 **Git & GitHub** – Versionamento e colaboração em projetos  
-- 🎨 **Fundamentos de UX** – Experiência e usabilidade
+- 🎨 **Introdução a UX** – Conceitos iniciais
 
 ---
 
