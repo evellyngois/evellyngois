@@ -38,3 +38,19 @@
 ---
 
 > 💡 *"A cada linha de código, um passo mais perto dos meus objetivos."*
+
+---
+
+## 🚀 Como executar o Portfólio CLI
+
+Se quiser rodar meu portfólio diretamente no **terminal**, siga os passos:
+
+```bash
+# 1. Clone este repositório
+git clone https://github.com/evellyngois/evellyngois.git
+
+# 2. Acesse a pasta
+cd evellyngois
+
+# 3. Execute o programa
+python main.py
